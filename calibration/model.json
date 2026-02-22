@@ -1,0 +1,9 @@
+{
+  "intercept": 7.0,
+  "coefs": {
+    "L": 0.01,
+    "a": -0.02,
+    "b": 0.015
+  },
+  "notes": "Sample linear calibration model. Replace with trained coefficients."
+}
